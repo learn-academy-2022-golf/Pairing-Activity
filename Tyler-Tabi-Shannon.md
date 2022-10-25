@@ -7,10 +7,10 @@
 
 # Partner 1
 ## Clone down the repository 
-  - 
+  - skvnglksn
 
 ## Create a new Branch 
-  - 
+  - khgkglgflfv
 
 ## Make changes to the files / structure
   - 
