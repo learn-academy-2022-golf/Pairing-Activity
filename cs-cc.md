@@ -78,13 +78,23 @@
   $ git push origin gitflow-cs-cc
 # Partner 1
 ## Pull down the changes 
- - 
+ - $ git fetch origin gitflow-cs-cc
+  - $ git checkout gitflow-cs-cc
+  - $ git pull origin gitflow-cs-cc
+  - $ code .
 
 ## Make changes to the files / structure
- - 
+ - make changes to the file
 
 ## Check the branch status and work through the git push flow
- - 
+ -  - $ git status
+ - $ git add cs-cc.md
+  $ git status
+  $ git status
+  $ git add cs-cc.md
+  $ git status
+  $ git commit -m "third part done"
+  $ git push origin gitflow-cs-cc
 
 # Partner 2
 ## Pull down the changes 
