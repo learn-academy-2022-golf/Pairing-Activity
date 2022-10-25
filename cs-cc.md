@@ -8,41 +8,61 @@
 # Partner 1
 ## Clone down the repository 
 - open github
+- click on profile dropdown
+  -click on learn academy org
+  -click view organization
+   -click on repositories tab
  - find the pairing-activity repository
- -copy code link https""
+ -click on the green code button in the middle of the page
+ -copy code link under https  "https://github.com/learn-academy-2022-golf/Pairing-Activity.git"
  open terminal
- $ pwd
- $ ls
+ type in terminal commands:
+  -$ pwd
+  -$ ls
  find folder to input file
- $ git clone  https://github.com/learn-academy-2022-golf/Pairing-Activity.git
- $ git status
- $ cd Pairing-Activity
- $ pwd
- $ ls
+ input command:
+  -$ git clone  https://github.com/learn-academy-2022-golf/Pairing-Activity.git
+To verify the status of the clone use command
+  -$ git status
+Access repository using command:
+  -$ cd Pairing-Activity
 
 
 
 ## Create a new Branch 
-  - $ checkout -b "gitflow-cs-cc"
-  $ git status
-  $ code .
+Verify location
+  -$ pwd
+  -$ ls
+Create new branch with command:
+  -$ checkout -b "gitflow-cs-cc"
+Verify new branch created with command:
+  -$ git status
+Open code editor with command:
+  -$ code .
 
 ## Make changes to the files / structure
-  - create new file cs-cc.md
-  copy paste readme.md into cs-cc.md
-  input actions taken into correct spots
-  save file
+To create a new file:
+ -Above the "README.md" file name 
+  -click on the page + icon
+    -name the new file "cs-cc.md"
+Copy the content on the "README.md" file on to "cs-cc.md"
+
+In the appropriate spaces type actions taken to complete each step
+  -save file on vs code utilizing "command+s"
 
   
 ## Check the branch status and work through the git push flow
-  - $ git status
-  $ git add cs-cc.md
-  $ git status
-  $ git status
-  $ git add cs-cc.md
-  $ git status
-  $ git commit -m first part done
-  $ git push origin gitflow-cs-cc
+Return to terminal
+verify status of your branch using command:
+  -$ git status
+Add updated file into the terminal using command:
+  -$ git add cs-cc.md
+Verify changes are saved using command:
+  -$ git status
+Commit the file with corresponding message to partner with command:
+  -$ git commit -m "first part done"
+Upload file to Github using command:
+  -$ git push origin gitflow-cs-cc
 
 # Partner 2
 ## Fetches the branch and views changes
