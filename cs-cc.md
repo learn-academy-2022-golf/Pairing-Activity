@@ -66,21 +66,30 @@ Upload file to Github using command:
 
 # Partner 2
 ## Fetches the branch and views changes
+  To find current updated branch file:
  - open github
  - find Learn-Academy-2022-Golf
  - find Pairing-Activity repo
  - click branch tab
  - click gitflow-cs-cc
- - pull code from the code button and copying link from HTTPS
- - open terminal and find open file
- - $ git clone "HTTPS"
- - $ git status
- - $ ls
- - $ pwd
- - $ cd Pairing-Activity
+ - pull code from the code button and copying link from HTTPS "https://github.com/learn-academy-2022-golf/Pairing-Activity.git"
+  type in terminal commands:
+  -$ pwd
+  -$ ls
+ find folder to input file
+ input command:
+  -$ git clone  https://github.com/learn-academy-2022-golf/Pairing-Activity.git
+To verify the status of the clone use command
+  -$ git status
+Access repository using command:
+  -$ cd Pairing-Activity
+  To find file on GitHub:
  - $ git fetch origin gitflow-cs-cc
+  To verify retrieval of branch:
   - $ git checkout gitflow-cs-cc
+  To pull the file:
   - $ git pull origin gitflow-cs-cc
+  
   - $ code .
 
 ##  Make changes to the files / structure
