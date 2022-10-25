@@ -28,7 +28,13 @@
   - See what I typed above
   
 ## Check the branch status and work through the git push flow
-  - 
+  - In the terminal run $ git status and make sure the changes are being registered.
+  - If no changes are registered, make sure to save the file on code editor.
+  - git add <file-name>
+  - git status to check that your files are ready to commit.
+  - then use git commit -m "some brief message about the updates"
+  - * the changes are now commited locally.
+  - use $ git push origin <branch-name> (This will push the files to github)
 
 # Partner 2
 ## Fetches the branch and views changes
