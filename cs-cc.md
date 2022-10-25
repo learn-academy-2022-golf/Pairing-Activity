@@ -146,24 +146,38 @@ Upload file to Github using command:
 
 # Partner 2
 ## Pull down the changes 
+To find current updated branch file:
+ - open github
+ - find Learn-Academy-2022-Golf
+ - find Pairing-Activity repo
+ - click branch tab
+ - click gitflow-cs-cc
+ - pull code from the code button and copying link from HTTPS "https://github.com/learn-academy-2022-golf/Pairing-Activity.git"
+To find file on GitHub:
  - $ git fetch origin gitflow-cs-cc
+  To verify retrieval of branch:
   - $ git checkout gitflow-cs-cc
+  To pull the file:
   - $ git pull origin gitflow-cs-cc
+  To launch in text editor
   - $ code .
 
 ##  Make changes to the files / structure
- - Input changes made to code
- - save file
+ In the appropriate spaces type actions taken to complete each step
+  -save file on vs code utilizing "command+s"
 
 ## Check the branch status and work through the git push flow
- -$ git status
- - $ git add cs-cc.md
-  $ git status
-  $ git status
-  $ git add cs-cc.md
-  $ git status
-  $ git commit -m "complete"
-  $ git push origin gitflow-cs-cc
+Return to terminal
+verify status of your branch using command:
+  -$ git status
+Add updated file into the terminal using command:
+  -$ git add cs-cc.md
+Verify changes are saved using command:
+  -$ git status
+Commit the file with corresponding message to partner with command:
+  -$ git commit -m "third part revision"
+Upload file to Github using command:
+  -$ git push origin gitflow-cs-cc
 
 ## Create a Pull Request (PR) to Main
  - Go onto Github
