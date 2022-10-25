@@ -1,7 +1,7 @@
 # Pairing-Activity
 - A pairing activity for LEARN's Golf Cohort 2022. Copy this markdown to a file with your name and your parnters name as the file name. 
     ex. austin-elyse.md
-- Fill out the sections with the help of your partner to create notes for your git 
+- Fill out the sections with the help of your partner to create notes for your git flow
 
 
 # Partner 1
