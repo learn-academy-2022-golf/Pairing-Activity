@@ -33,7 +33,13 @@
 
 # Partner 2
 ## Fetches the branch and views changes
- - 
+ - git clone https://github.com/learn-academy-2022-golf/Pairing-Activity.git
+- ls
+- cd Pairing-Activity
+- git fetch origin gitflow-aw-em
+    - Fetch gives us access to branches that exist in the repo
+- git checkout gitflow-aw-em
+    - Checkout without the -b flag navigates us to an existing branch
 
 ##  Make changes to the files / structure
  - 
