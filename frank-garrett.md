@@ -83,7 +83,14 @@
  - make changes
 
 ## Check the branch status and work through the git push flow
- -
+- $ git status
+
+- $ git add frank-garrett.md
+
+- $ git commit -m "frank's commit"
+
+- $ git push origin gitflow-fb-gg
+
 
 ## Create a Pull Request (PR) to Main
  - 
