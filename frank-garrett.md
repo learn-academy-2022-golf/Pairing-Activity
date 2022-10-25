@@ -80,7 +80,7 @@
  - $ git pull origin gitflow-fb-gg
 
 ##  Make changes to the files / structure
- - 
+ - make changes
 
 ## Check the branch status and work through the git push flow
  -
