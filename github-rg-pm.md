@@ -58,13 +58,19 @@
 
 # Partner 1
 ## Pull down the changes 
- - 
+ - navigate to the current folder
+ - if on correct branch, then run git pull origin <branch-name> to pull down partner's changes
+ - run code . to open code editor and see changes made by partner.
 
 ## Make changes to the files / structure
- - 
+ - make your changes
 
 ## Check the branch status and work through the git push flow
- - 
+ - save work
+ - run git status
+ - run git add <file-name>
+ - run git commit -m "some cool message"
+ - run git push origin <branch-name>
 
 # Partner 2
 ## Pull down the changes 
