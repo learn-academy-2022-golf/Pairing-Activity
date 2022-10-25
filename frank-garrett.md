@@ -25,37 +25,59 @@
 
   
 ## Check the branch status and work through the git push flow
-  $ git status
+  -$ git status
 
-  $ git add frank-garrett.md
+  - $ git add frank-garrett.md
 
-  $ git commit -m "frank's commit"
+  - $ git commit -m "frank's commit"
 
-  $ git push origin gitflow-fb-gg
+  - $ git push origin gitflow-fb-gg
 
 # Partner 2
 ## Fetches the branch and views changes
  - clone branch
 
+ - $ git fetch origin gitflow-fb-gg
+
+ - $ git checkout gitflow-fb-gg
+
+ - $ git pull origin gitflow-fb-gg
+
 ##  Make changes to the files / structure
- - 
+ - Make necessary changes & save
 
 ## Check the branch status and work through the git push flow
- - 
+  - $ git status
+
+  - $ git add frank-garrett.md
+
+  - $ git commit -m "frank's commit"
+
+  - $ git push origin gitflow-fb-gg
 
 # Partner 1
 ## Pull down the changes 
- - 
+  - Ensure you're in the right folder with pwd
+
+ - $ git pull origin gitflow-fb-gg
 
 ## Make changes to the files / structure
- - 
+ - Make necessary changes
 
 ## Check the branch status and work through the git push flow
- - 
+ - $ git status
+
+  - $ git add frank-garrett.md
+
+  - $ git commit -m "frank's commit"
+
+  - $ git push origin gitflow-fb-gg
 
 # Partner 2
 ## Pull down the changes 
- - 
+ - Ensure you're in the right folder with pwd
+
+ - $ git pull origin gitflow-fb-gg
 
 ##  Make changes to the files / structure
  - 
