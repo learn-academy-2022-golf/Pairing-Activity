@@ -61,18 +61,22 @@
 # Partner 2
 
 ## Pull down the changes
+
 - git fetch origin (branch)
 - git checkout (branch)
 - git pull origin (branch)
 
 ## Make changes to the files / structure
+
 - code .
 
 ## Check the branch status and work through the git push flow
+
 - git status  
--git add (filename)
--git commit -m "comment"
--git push origin (branchname)
+  -git add (filename)
+  -git commit -m "comment"
+  -git push origin (branchname)
 
 ## Create a Pull Request (PR) to Main
--
+
+-jfdvgjfdoivfdjvofdjvodfv
