@@ -85,6 +85,7 @@
 
 ## Make changes to the files / structure
  - make changes to the file
+ - save file
 
 ## Check the branch status and work through the git push flow
  -  - $ git status
@@ -98,13 +99,28 @@
 
 # Partner 2
 ## Pull down the changes 
- - 
+ - $ git fetch origin gitflow-cs-cc
+  - $ git checkout gitflow-cs-cc
+  - $ git pull origin gitflow-cs-cc
+  - $ code .
 
 ##  Make changes to the files / structure
- - 
+ - Input changes made to code
+ - save file
 
 ## Check the branch status and work through the git push flow
- -
+ -$ git status
+ - $ git add cs-cc.md
+  $ git status
+  $ git status
+  $ git add cs-cc.md
+  $ git status
+  $ git commit -m "complete"
+  $ git push origin gitflow-cs-cc
 
 ## Create a Pull Request (PR) to Main
- - 
+ - Go onto Github
+ - Inside your repository you will see a message
+ - click "Compare and Pull Request"
+ - click "Merge Pull Request"
+ - A message will pop up that says "Pull Request successfully merged and closed
