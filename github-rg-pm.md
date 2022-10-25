@@ -60,7 +60,7 @@
 # Partner 1
 ## Pull down the changes 
  - Navigate to the current folder.
- - If on correct branch, then run $git pull origin <branch-name> to pull down partner's changes.
+ - If on correct branch, then run $ git pull origin <branch-name> to pull down partner's changes.
  - Run $ code . to open code editor and see changes made by partner.
 
 ## Make changes to the files / structure
@@ -76,7 +76,7 @@
 # Partner 2
 ## Pull down the changes 
  - Navigate to the current folder.
- - If on correct branch, then run git pull origin <branch-name> to pull down partner's changes.
+ - If on correct branch, then run $ git pull origin <branch-name> to pull down partner's changes.
  - Run $ code . to open code editor and see changes made by partner.
 
 ## Make changes to the files / structure
