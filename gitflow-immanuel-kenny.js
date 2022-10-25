@@ -25,7 +25,7 @@
 
 # Partner 2
 ## Fetches the branch and views changes
- - 
+ - kenny
 
 ##  Make changes to the files / structure
  - 
