@@ -35,7 +35,7 @@
 
 # Partner 2
 ## Fetches the branch and views changes
- - 
+ - clone branch
 
 ##  Make changes to the files / structure
  - 
