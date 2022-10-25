@@ -54,11 +54,17 @@ Ensure confirmation message looks like this:
 
 ## Check the branch status and work through the git push flow
  - it gave us back in red: "modified: Ciani-Zeke.md
- - 
+ - - so we did git add 
+ - did check status and it is green now
 
 # Partner 1
 ## Pull down the changes 
- - 
+ - Ensure you are in repo name on github i.e, Pairing Activity
+ - Git status to ensure proper placement
+ -git fetch origin branch name (NO MD)
+ -Then git checkout branch name (NO MD
+ -Then git pull origin branch name (No MD)
+ -Then open text editor using code . 
 
 ## Make changes to the files / structure
  - 
