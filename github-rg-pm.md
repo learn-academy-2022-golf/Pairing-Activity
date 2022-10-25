@@ -38,13 +38,23 @@
 
 # Partner 2
 ## Fetches the branch and views changes
- - 
+ - Close the file in VScode, or reload the app so changes can be loaded
+ - Run git fetch origin <branch-name>
+ - Run git checkout <branch-name>
+ - Run git pull origin <branch-name>
+ - Open file in VScode to view changes from your partner
 
 ##  Make changes to the files / structure
- - 
+ - (Added instructions for partner 2)
 
 ## Check the branch status and work through the git push flow
- - 
+ - In the terminal run $ git status and make sure the changes are being registered.
+  - If no changes are registered, make sure to save the file on code editor.
+  - git add <file-name>
+  - git status to check that your files are ready to commit.
+  - then use git commit -m "some brief message about the updates"
+  - * the changes are now commited locally.
+  - use $ git push origin <branch-name> (This will push the files to github)
 
 # Partner 1
 ## Pull down the changes 
